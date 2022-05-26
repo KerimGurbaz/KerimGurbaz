@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning frontend and backend
 - 💞️ I’m looking forward to collaborating you
+  <br> <br> <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=KerimGurbaz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!---
