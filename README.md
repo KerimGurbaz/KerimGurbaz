@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend and backend
 - 💞️ I’m looking forward to collaborating you
   <br> <br> <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=KerimGurbaz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 <!---
 KerimGurbaz/KerimGurbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
