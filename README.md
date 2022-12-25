@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KerimGurbaz
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning frontend and backend
+- 🌱 I’m Frontend developer and Blockchain Enthusiast
 - 💞️ I’m looking forward to collaborating you
   <br> <br> <br>
 
