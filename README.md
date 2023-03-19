@@ -1,26 +1,8 @@
-<!--- - 👋 Hi, I’m @KerimGurbaz
-- 🌱 I’m Frontend developer and Blockchain Enthusiast
-- 👀 I’m interested in computer science
-- 🌱 I regularly write articles on Medium
-- 💞️ I’m looking forward to collaborating you
-  <br> <br> <br>
 
-### Connect with me:
-
-[<img align="left" alt="Medium" width="26px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />][medium]
-[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
-[medium]: https://medium.com/@kerim.grbz.01
-[linkedin]: https://www.linkedin.com/in/kerim-gürbaz/
-
-
-KerimGurbaz/KerimGurbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 # Hi there, I'm Kerim Gürbaz! 👋
 
-![Header Image](https://github.com/KerimGurbaz/KerimGurbaz/blob/main/header-image-2.jpg)
+![Header Image](https://i.imgur.com/LmZ0Rzj.jpg)
 
 I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Computer Science. I love learning new technologies and sharing my knowledge through articles on Medium. I'm always open to collaboration and excited to work on innovative projects.
 
@@ -32,10 +14,15 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 <img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="SASS" width="30px" src="https://img.icons8.com/color/48/000000/sass.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="Material-UI" width="30px" src="https://img.icons8.com/color/48/000000/material-ui.png" />
+<img align="left" alt="Material UI" width="30px" src="https://img.icons8.com/color/48/000000/material-ui.png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Solidity" width="30px" src="https://img.icons8.com/ios/50/26e07f/solidity.png" />
 <img align="left" alt="Ethereum" width="30px" src="https://img.icons8.com/color/48/000000/ethereum.png" />
+<img align="left" alt="Linux" width="30px" src="https://img.icons8.com/color/48/000000/linux.png" />
+<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/48/000000/slack.png" />
+<img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.png" />
+<img align="left" alt="Postman" width="30px" src="https://img.icons8.com/color/48/000000/postman-api.png" />
+<img align="left" alt="SQLite" width="30px" src="https://img.icons8.com/color/48/000000/sqlite.png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 <br />
 <br />
