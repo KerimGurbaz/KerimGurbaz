@@ -40,7 +40,7 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 
 ## 📚 Latest Blog Posts
 
-- [The Future of Monolithic and Modular Blockchain Architectures]([https://medium.com/@kerim.grbz.01/frontend-development-tips-and-tricks-123456](https://medium.com/@kerim.grbz.01/the-future-of-monolithic-and-modular-blockchain-architectures-7656365a8ff6))
+- [The Future of Monolithic and Modular Blockchain Architectures](https://medium.com/@kerim.grbz.01/the-future-of-monolithic-and-modular-blockchain-architectures-7656365a8ff6)
 - [Smart Contract Security](https://medium.com/@kerim.grbz.01/smart-contract-security-lessons-learned-from-the-dao-attack-and-its-impact-on-the-ethereum-ae803a6df887)
 
 [**More Blog Posts...**](https://medium.com/@kerim.grbz.01)
