@@ -26,15 +26,17 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 
 ## 🚀 Skills & Technologies
 
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Solidity" width="26px" src="https://img.icons8.com/ios/50/26e07f/solidity.png" />
-<img align="left" alt="Ethereum" width="26px" src="https://img.icons8.com/color/48/000000/ethereum.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="SASS" width="30px" src="https://img.icons8.com/color/48/000000/sass.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="left" alt="Material-UI" width="30px" src="https://img.icons8.com/color/48/000000/material-ui.png" />
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Solidity" width="30px" src="https://img.icons8.com/ios/50/26e07f/solidity.png" />
+<img align="left" alt="Ethereum" width="30px" src="https://img.icons8.com/color/48/000000/ethereum.png" />
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 <br />
 <br />
 
