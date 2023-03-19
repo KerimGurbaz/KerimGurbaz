@@ -21,6 +21,10 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.png" />
 <img align="left" alt="Postman" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Bitcoin" width="30px" src="https://img.icons8.com/color/48/000000/bitcoin.png" />
+<img align="left" alt="Blockchain" width="30px" src="https://img.icons8.com/color/48/000000/blockchain.png" />
+
+
 <br />
 <br />
 
