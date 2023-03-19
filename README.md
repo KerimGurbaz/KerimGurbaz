@@ -51,8 +51,8 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 
 Feel free to reach out and connect with me on these platforms:
 
-[<img align="left" alt="Medium" width="26px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />][medium]
-[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />][medium]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 [medium]: https://medium.com/@kerim.grbz.01
 [linkedin]: https://www.linkedin.com/in/kerim-gürbaz/
