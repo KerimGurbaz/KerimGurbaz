@@ -5,11 +5,14 @@
 - 💞️ I’m looking forward to collaborating you
   <br> <br> <br>
 
-- ### Connect with me:
+### Connect with me:
 
-[![medium badge](https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white)][medium]
+[<img align="left" alt="Medium" width="26px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />][medium]
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 [medium]: https://medium.com/@kerim.grbz.01
+[linkedin]: https://www.linkedin.com/in/kerim-gürbaz/
+
 <!---
 KerimGurbaz/KerimGurbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
