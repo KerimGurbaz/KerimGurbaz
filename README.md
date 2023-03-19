@@ -55,8 +55,7 @@ Feel free to reach out and connect with me on these platforms:
 
 [medium]: https://medium.com/@kerim.grbz.01
 [linkedin]: https://www.linkedin.com/in/kerim-gürbaz/
-  <br> <br> <br>
-
+  <br>
 ---
 
 ⭐️ From [KerimGurbaz](https://github.com/KerimGurbaz)
