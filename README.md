@@ -2,8 +2,6 @@
 
 # Hi there, I'm Kerim Gürbaz! 👋
 
-![Header Image](https://i.imgur.com/LmZ0Rzj.jpg)
-
 I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Computer Science. I love learning new technologies and sharing my knowledge through articles on Medium. I'm always open to collaboration and excited to work on innovative projects.
 
 ## 🚀 Skills & Technologies
@@ -21,8 +19,8 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 <img align="left" alt="Linux" width="30px" src="https://img.icons8.com/color/48/000000/linux.png" />
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/48/000000/slack.png" />
 <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.png" />
-<img align="left" alt="Postman" width="30px" src="https://img.icons8.com/color/48/000000/postman-api.png" />
-<img align="left" alt="SQLite" width="30px" src="https://img.icons8.com/color/48/000000/sqlite.png" />
+<img align="left" alt="Postman" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
+<img align="left" alt="SQLite" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 <br />
 <br />
