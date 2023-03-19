@@ -37,6 +37,7 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <br />
 <br />
+<br> <br> <br>
 
 ## 📚 Latest Blog Posts
 
