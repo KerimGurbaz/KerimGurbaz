@@ -20,7 +20,6 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/48/000000/slack.png" />
 <img align="left" alt="Discord" width="30px" src="https://img.icons8.com/color/48/000000/discord.png" />
 <img align="left" alt="Postman" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
-<img align="left" alt="SQLite" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 <br />
 <br />
