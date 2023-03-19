@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Kerim Gürbaz! 👋
 
-![Header Image](https://github.com/KerimGurbaz/KerimGurbaz/blob/main/header-image.jpg)
+![Header Image](https://github.com/KerimGurbaz/KerimGurbaz/blob/main/header-image-2.jpg)
 
 I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Computer Science. I love learning new technologies and sharing my knowledge through articles on Medium. I'm always open to collaboration and excited to work on innovative projects.
 
@@ -37,7 +37,6 @@ I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Comput
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <br />
 <br />
-<br> <br> <br>
 
 ## 📚 Latest Blog Posts
 
