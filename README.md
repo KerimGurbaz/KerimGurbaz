@@ -2,7 +2,13 @@
 
 # Hi there, I'm Kerim Gürbaz! 👋
 
-I'm a Frontend Developer and Blockchain Enthusiast who's passionate about Computer Science. I love learning new technologies and sharing my knowledge through articles on Medium. I'm always open to collaboration and excited to work on innovative projects.
+- 💻 Frontend Developer & Blockchain Enthusiast
+- 🎓 Passionate about Computer Science
+- 🌟 Love learning new technologies
+- ✍️ Sharing knowledge through [Medium](https://medium.com/@kerim.grbz.01) articles
+- 🤝 Open to collaboration
+- 🚀 Excited to work on innovative projects
+
 
 ## 🚀 Skills & Technologies
 
