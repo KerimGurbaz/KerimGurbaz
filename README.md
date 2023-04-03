@@ -29,3 +29,27 @@
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="Bitcoin" width="30px" src="https://img.icons8.com/color/48/000000/bitcoin.png" />
 
+
+<br />
+<br />
+
+## 📚 Latest Blog Posts
+
+- [The Future of Monolithic and Modular Blockchain Architectures](https://medium.com/@kerim.grbz.01/the-future-of-monolithic-and-modular-blockchain-architectures-7656365a8ff6)
+- [Smart Contract Security](https://medium.com/@kerim.grbz.01/smart-contract-security-lessons-learned-from-the-dao-attack-and-its-impact-on-the-ethereum-ae803a6df887)
+
+[**More Blog Posts...**](https://medium.com/@kerim.grbz.01)
+
+## 🔗 Let's Connect
+
+Feel free to reach out and connect with me on these platforms:
+
+[<img align="left" alt="Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />][medium]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+
+[medium]: https://medium.com/@kerim.grbz.01
+[linkedin]: https://www.linkedin.com/in/kerim-gürbaz/
+  <br>
+---
+
+⭐️ From [KerimGurbaz](https://github.com/KerimGurbaz)
