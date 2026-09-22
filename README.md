@@ -46,3 +46,5 @@ Reference: [HEIG-VD Official](https://heig-vd.ch)
 
 ```bash
 git status && git log --oneline
+
+Practice status: Main branch is modifying this specific line differently.
