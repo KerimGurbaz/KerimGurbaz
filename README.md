@@ -34,3 +34,15 @@
 - Bridging the gap between low-level memory management (C/C++) and high-level data processing (Python)
 
 [🔗 LinkedIn](https://www.linkedin.com/in/kerim-gürbaz/) | [✍️ Medium](https://medium.com/@kerim.grbz.01)
+
+
+## Education & Technical Labs
+
+- **Institution:** HEIG-VD (Data Engineering)
+- **Coursework:** DAI (Internet Applications Development)
+- **Current Focus:** Git workflows, distributed version control, and signed commits
+
+Reference: [HEIG-VD Official](https://heig-vd.ch)
+
+```bash
+git status && git log --oneline
