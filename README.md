@@ -49,3 +49,4 @@ git status && git log --oneline
 
 Practice status : conflict drill completed and resolved successfully.
 
+- **Lab Progress:** Mastered Git branching, conflict resolution, and PR workflows.
